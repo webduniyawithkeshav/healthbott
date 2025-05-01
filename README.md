@@ -1,8 +1,6 @@
-README: Setting Up Your Environment with Pipenv
-Prerequisite: Install Pipenv
-Follow the official Pipenv installation guide to set up Pipenv on your system:
-Install Pipenv Documentation
+Setting Up Your Environment with Pipenv
 
+Prerequisite: Install Pipenv
 Steps to Set Up the Environment
 Install Required Packages
 Run the following commands in your terminal (assuming Pipenv is already installed):
